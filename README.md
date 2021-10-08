@@ -1,2 +1,2 @@
 # testGit
-this is for tresting git
+this is for testing git
